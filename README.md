@@ -34,7 +34,7 @@ Steps
 
 Clone the Repository (If hosting on GitHub):
 
-git clone [https://github.com/YourUsername/bpdc-syncup-dashboard.git](https://github.com/YourUsername/bpdc-syncup-dashboard.git)
+git clone [https://github.com/YourUsername/bpdc-syncup-dashboard.git](https://github.com/KaveriPathak2205/bpdc-syncup-dashboard.git)
 cd bpdc-syncup-dashboard
 
 
