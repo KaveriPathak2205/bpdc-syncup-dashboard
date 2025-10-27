@@ -72,14 +72,5 @@ courses.json
 
 The static data source containing course names and their corresponding external links (YouTube playlists and practice papers).
 
-☁️ Deployment
-
-This application is designed to be easily deployed on Streamlit Community Cloud.
-
-Push all three files (app.py, requirements.txt, courses.json) to a public GitHub repository.
-
-Connect your repository to Streamlit Cloud.
-
-Specify app.py as the main file.
-
-Streamlit will handle the rest, automatically installing dependencies from requirements.txt.
+Deployment Status
+https://bpdc-syncup.streamlit.app/
