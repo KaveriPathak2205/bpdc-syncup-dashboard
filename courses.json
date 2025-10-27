@@ -1,0 +1,54 @@
+{
+  "Design and Analysis of Algorithms": {
+    "playlist": "https://www.youtube.com/watch?v=itbkP50iggM&list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa&index=2",
+    "papers": "https://drive.google.com/file/d/13gH3Nr7k_qNZmpr8vwRinmDafuc7lB4-/view?usp=sharing"
+  },
+  "Database Management Systems": {
+    "playlist": "https://www.youtube.com/watch?v=HXV3zeQKqGY&list=PL9ooVrP1hQOH7jhH8cGm7ZK4F4yKZ-fp9",
+    "papers": "https://drive.google.com/drive/folders/2-DBMS-PracticePapers"
+  },
+  "Operating Systems": {
+    "playlist": "https://www.youtube.com/watch?v=8X69_42Mj-g&list=PLBlnK6fEyqRhoV2xY9B7aKf6VxHXxG7uS",
+    "papers": "https://drive.google.com/drive/folders/3-OS-PracticePapers"
+  },
+  "Artificial Intelligence": {
+    "playlist": "https://www.youtube.com/watch?v=JMUxmLyrhSk&list=PLLy_2iUCG87CQhELCytWQmY5Yp4pG4uQm",
+    "papers": "https://drive.google.com/drive/folders/4-AI-PracticePapers"
+  },
+  "Computer Networks": {
+    "playlist": "https://www.youtube.com/watch?v=qiQR5rTSshw&list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_",
+    "papers": "https://drive.google.com/drive/folders/5-Networks-PracticePapers"
+  },
+  "Software Engineering": {
+    "playlist": "https://www.youtube.com/watch?v=ysEN5RaKOlA&list=PL9ooVrP1hQOGlLJxixv4D2bLs6J0bqv57",
+    "papers": "https://drive.google.com/drive/folders/6-SE-PracticePapers"
+  },
+  "Machine Learning": {
+    "playlist": "https://www.youtube.com/watch?v=ukzFI9rgwfU&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF",
+    "papers": "https://drive.google.com/drive/folders/7-ML-PracticePapers"
+  },
+  "Data Science": {
+    "playlist": "https://www.youtube.com/watch?v=ua-CiDNNj30&list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR",
+    "papers": "https://drive.google.com/drive/folders/8-DS-PracticePapers"
+  },
+  "Computer Architecture": {
+    "playlist": "https://www.youtube.com/watch?v=FoO8qDB8gUU&list=PLBlnK6fEyqRj9vplGx9g6Uu6Y_z8K1ZK4",
+    "papers": "https://drive.google.com/drive/folders/9-CA-PracticePapers"
+  },
+  "Web Development": {
+    "playlist": "https://www.youtube.com/watch?v=nu_pCVPKzTk&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX",
+    "papers": "https://drive.google.com/drive/folders/10-WebDev-PracticePapers"
+  },
+  "Cybersecurity": {
+    "playlist": "https://www.youtube.com/watch?v=inWWhr5tnEA&list=PL9ooVrP1hQOERgZZQwY3RpU3xVjaY9V8S",
+    "papers": "https://drive.google.com/drive/folders/11-CyberSec-PracticePapers"
+  },
+  "Data Structures": {
+    "playlist": "https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_",
+    "papers": "https://drive.google.com/drive/folders/12-DS-PracticePapers"
+  },
+  "Discrete Mathematics": {
+    "playlist": "https://www.youtube.com/watch?v=BRn6UCw35no&list=PLiQ766zSC5jMxfR7dsS-mtvgE_i3L4wyh",
+    "papers": "https://drive.google.com/drive/folders/13-Discrete-PracticePapers"
+  }
+}
